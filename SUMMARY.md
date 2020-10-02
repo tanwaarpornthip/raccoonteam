@@ -4,5 +4,5 @@
 
 ## การเทรด
 
-* [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](undefined/undefined.md)
+* [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](undefined/complete-beginner-guide-trading.md)
 
