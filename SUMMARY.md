@@ -2,7 +2,7 @@
 
 * [Initial page](README.md)
 
-## การเทรด
+## TRADING
 
-* [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](undefined/complete-beginner-guide-trading.md)
+* [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](trading/complete-beginner-guide-trading.md)
 
