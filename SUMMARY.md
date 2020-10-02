@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Raccoon Team Thailand](README.md)
 
-## TRADING
+## บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์ <a id="trading"></a>
 
-* [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](trading/complete-beginner-guide-trading.md)
+* [บทที่ 1 การเทรดเบื้องต้น](trading/beginner-chapter-1.md)
 
