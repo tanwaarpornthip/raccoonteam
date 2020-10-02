@@ -4,26 +4,30 @@ description: บทความแปลจาก Binance Academy
 
 # บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์
 
-## Getting Super Powers
+บทความนี้แปลมาจากบทความของ Binance Academy เรื่อง ["A complete guide to cryptocurrency for beginners"](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners?ref=JLI1VBLA&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial) เมื่อวันที่ 2 ตุลาคม 2020
 
-Becoming a super hero is a fairly straight forward process:
+## หัวข้อ
 
-```
-$ give me super-powers
-```
+* [การเทรดเบื้องต้น](complete-beginner-guide-trading.md#1)
+* ตลาดการเงินและเครื่องมือการซื้อขาย
+* การเทรดและหลักการการลงทุน
+* การวิเคราะห์เชิงเทคนิคเบื้องต้น
+* การวิเคราะห์เชิงเทคนิคโดยการใช้ indicator
+* คำแนะนำในการเทรดคริปโต
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+## บทที่ 1 - การเทรดเบื้องต้น
 
-Once you're strong enough, save the world:
+### เนื้อหา
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+* การเทรดคืออะไร
+* การลงทุนคืออะไร
+* การเทรดกับการลงทุนต่างกันอย่างไร
+* การวิเคราะห์ปัจจัยพื้นฐานคืออะไร \(Fundamental analysis\)
+* การวิเคราะห์เชิงเทคนิคคืออะไร \(Technical analysis\)
+* ระหว่าง Fundamental กับ Technical analysis อันไหนดีกว่า
+* อะไรเป็นแรงขับเคลื่อนตลาดการเงิน
+* เทรนด์ของตลาดคืออะไร
+* วงจรของตลาดคืออะไร
 
 
 
