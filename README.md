@@ -18,6 +18,7 @@
 * Telegram: 
   * [THStakePool](https://t.me/THStakePool)
   * [Binance Thai](https://t.me/BinanceThai)
+* [tanwa.info](https://tanwa.info)
 
 ถ้าไม่แน่ใจว่าจะเริ่มที่ไหนดี ลองเริ่มที่ [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](https://raccoon.tanwa.info/trading/)
 
