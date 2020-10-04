@@ -6,6 +6,8 @@
   * นักวิจัยประจำทีมวิจัย BLOCK ณ มหาวิทยาลัยสงขลานครินทร์ วิทยาเขตภูเก็ต
   * Head Conspiracy Theorist แห่ง Tinfoil
   * Co-founder [sabai.finance](https://sabai.finance/)/THStakePool \(Under construction\)
+* Lady Irmo
+  * Shaman of visions and dreams แห่ง Tinfoil
 
 สามารถติดต่อทีมงานได้ทางไหนบ้าง
 
