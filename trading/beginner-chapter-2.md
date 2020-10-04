@@ -1,7 +1,5 @@
 # บทที่ 2 ตลาดการเงินและเครื่องมือการลงทุน
 
-ยังทำไม่เสร็จครับ รอก่อนนะ 😒
-
 บทความนี้แปลและดัดแปลงมาจากบทความของ Binance Academy เรื่อง ["A complete guide to cryptocurrency for beginners"](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners?ref=JLI1VBLA&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial) เมื่อวันที่ 4 ตุลาคม 2020
 
 ### เนื้อหา
