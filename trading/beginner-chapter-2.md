@@ -6,9 +6,9 @@
 
 ### เนื้อหา
 
-* เครื่องมือทางการเงิน \(Financial instrument\) คืออะไร
-* spot market
-* การเทรดบน Margin
+* [เครื่องมือทางการเงิน \(Financial instrument\) คืออะไร](beginner-chapter-2.md#financial-instrument)
+* [spot market](beginner-chapter-2.md#spot-market)
+* [การเทรดบน Margin](beginner-chapter-2.md#margin)
 * ตลาดอนุพันธ์
 * Forward และ futures contracts
 * Perpetual futures contracts
