@@ -108,7 +108,7 @@ Leverated tokens เป็นนวัตกรรมทางการเงิ
 
 โดย leveraged token จะทำการเปิดไม้เทรดในตลาด perpetual futures และออกเป็น token ออกมาให้ซื้อขาย โดย leveraged token ถือเป็นอนุพันธ์ประเภทหนึ่ง
 
-Leverated tokens ถือเป็นวิธีที่ง่ายมากในการเทรดแบบมี leverage สามารถอ่านเพิ่มเติมได้ในบทความ [A Beginner's Guide to Binace Leverated Tokens \(BLVT\)](https://academy.binance.com/en/articles/a-beginners-guide-to-binance-leveraged-tokens-blvt)
+Leveraged tokens ถือเป็นวิธีที่ง่ายมากในการเทรดแบบมี leverage สามารถอ่านเพิ่มเติมได้ในบทความ [A Beginner's Guide to Binace Leverated Tokens \(BLVT\)](https://academy.binance.com/en/articles/a-beginners-guide-to-binance-leveraged-tokens-blvt)
 
 
 
