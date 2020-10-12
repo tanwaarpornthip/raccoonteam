@@ -2,6 +2,8 @@
 
 บทความนี้แปลและดัดแปลงมาจากบทความของ Binance Academy เรื่อง ["A complete guide to cryptocurrency for beginners"](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners?ref=JLI1VBLA&utm_source=BinanceTwitter&utm_medium=GlobalSocial&utm_campaign=GlobalSocial) เมื่อวันที่ 4 ตุลาคม 2020
 
+![](../.gitbook/assets/image%20%281%29.png)
+
 ### เนื้อหา
 
 * [เครื่องมือทางการเงิน \(Financial instrument\) คืออะไร](beginner-chapter-2.md#financial-instrument)
