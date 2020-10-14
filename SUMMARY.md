@@ -13,9 +13,12 @@
 
 ## Binance products
 
+---
+
+* [Liquid swap](liquid-swap.md)
+
 ## แหล่งรวมคำศัพท์ <a id="glossary"></a>
 
-* [Liquid swap](glossary/liquid-swap.md)
 * [Current market capitalization](glossary/current-market-capitalization.md)
 * [Fully diluted market capitalization](glossary/fully-diluted-market-capitalization.md)
 * [Market capitalization](glossary/market-capitalization.md)

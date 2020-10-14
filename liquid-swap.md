@@ -24,7 +24,7 @@
 
 ### ดอกเบี้ยที่ได้มา ดูตรงไหน
 
-![Liquid swap PnL](../.gitbook/assets/liquid-swap-pnl.jpg)
+![Liquid swap PnL](.gitbook/assets/liquid-swap-pnl.jpg)
 
 ดูได้จากหน้า My share ของ Liquid swap โดยสามารถดูได้สองจุด
 
