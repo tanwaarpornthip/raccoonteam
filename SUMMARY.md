@@ -11,8 +11,11 @@
 * [บทที่ 5 การวิเคราะห์เชิงเทคนิคโดยการใช้ indicators](trading/beginner-chapter-5.md)
 * [บทที่ 6 Tips ในการเทรดคริปโต](trading/beginner-chapter-6.md)
 
+## Binance products
+
 ## แหล่งรวมคำศัพท์ <a id="glossary"></a>
 
+* [Liquid swap](glossary/liquid-swap.md)
 * [Current market capitalization](glossary/current-market-capitalization.md)
 * [Fully diluted market capitalization](glossary/fully-diluted-market-capitalization.md)
 * [Market capitalization](glossary/market-capitalization.md)
