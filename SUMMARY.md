@@ -11,3 +11,9 @@
 * [บทที่ 5 การวิเคราะห์เชิงเทคนิคโดยการใช้ indicators](trading/beginner-chapter-5.md)
 * [บทที่ 6 Tips ในการเทรดคริปโต](trading/beginner-chapter-6.md)
 
+## แหล่งรวมคำศัพท์
+
+* [Current market capitalization](undefined/current-market-capitalization.md)
+* [Fully diluted market capitalization](undefined/fully-diluted-market-capitalization.md)
+* [Market capitalization](undefined/market-capitalization.md)
+
