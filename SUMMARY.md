@@ -23,3 +23,7 @@
 * [Fully diluted market capitalization](glossary/fully-diluted-market-capitalization.md)
 * [Market capitalization](glossary/market-capitalization.md)
 
+## รวบรวมคำถาม <a id="q-and-a"></a>
+
+* [Bitcoin](q-and-a/bitcoin.md)
+
