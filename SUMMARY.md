@@ -16,6 +16,7 @@
 ---
 
 * [Liquid swap](liquid-swap.md)
+* [Binance Savings](binance-savings.md)
 
 ## แหล่งรวมคำศัพท์ <a id="glossary"></a>
 
