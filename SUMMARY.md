@@ -11,11 +11,11 @@
 * [บทที่ 5 การวิเคราะห์เชิงเทคนิคโดยการใช้ indicators](trading/beginner-chapter-5.md)
 * [บทที่ 6 Tips ในการเทรดคริปโต](trading/beginner-chapter-6.md)
 
-## Binance products <a id="binance-products"></a>
+## Binance products
 
-* [Introduction](binanceproductsintro.md)
-* [Liquid swap](liquid-swap.md)
-* [Binance Savings](binance-savings.md)
+* [Introduction](binance-products/introduction.md)
+* [Liquid swap](binance-products/liquid-swap.md)
+* [Binance Savings](binance-products/binance-savings.md)
 
 ## แหล่งรวมคำศัพท์ <a id="glossary"></a>
 
