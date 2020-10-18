@@ -22,8 +22,6 @@
 
 ## ดอกเบี้ยที่ได้มา ดูตรงไหน
 
-![Liquid swap PnL](https://github.com/tanwaarpornthip/raccoonteam/tree/e25668a4661ea629ac0afae6f3faef423dc2962a/binance-products/.gitbook/assets/liquid-swap-pnl.jpg)
-
 ดูได้จากหน้า My share ของ Liquid swap โดยสามารถดูได้สองจุด
 
 1. My current share value บอกมูลค่ารวมทั้งหมดตอนนี้ เงินต้น + ดอกเบี้ย
