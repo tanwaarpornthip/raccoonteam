@@ -28,3 +28,7 @@
 
 * [Bitcoin](q-and-a/bitcoin.md)
 
+## 👨‍🎓👩‍🎓รวบรวมแหล่งเรียนรู้ และ community <a id="learning-community"></a>
+
+* [รวมรายชื่อ](learning-community/learning-resources.md)
+
