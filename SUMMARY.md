@@ -32,3 +32,7 @@
 
 * [รวมรายชื่อ](learning-community/learning-resources.md)
 
+---
+
+* [System Quality Number \(SQN\)](system-quality-number-sqn.md)
+
