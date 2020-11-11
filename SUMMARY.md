@@ -30,6 +30,7 @@
 
 ## 👨‍🎓👩‍🎓รวบรวมแหล่งเรียนรู้ และ community <a id="learning-community"></a>
 
+* [หนังสือแนะนำ](learning-community/undefined.md)
 * [รวมรายชื่อ](learning-community/learning-resources.md)
 
 ---
