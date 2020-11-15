@@ -37,3 +37,7 @@
 
 * [System Quality Number \(SQN\)](system-quality-number-sqn.md)
 
+## 🔨เครื่องมือมีประโยชน์🔧 <a id="useful-tools"></a>
+
+* [เปลี่ยนเงิน fiat &lt;&gt; crypto](useful-tools/on-off-ramp.md)
+
