@@ -23,6 +23,7 @@
 * [Current market capitalization](glossary/current-market-capitalization.md)
 * [Fully diluted market capitalization](glossary/fully-diluted-market-capitalization.md)
 * [Market capitalization](glossary/market-capitalization.md)
+* [Various risks](glossary/various-risks.md)
 
 ## รวบรวมคำถาม <a id="q-and-a"></a>
 
