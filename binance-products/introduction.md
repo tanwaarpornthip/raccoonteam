@@ -1,9 +1,5 @@
 # แนะนำผลิตภัณฑ์ของ Binance
 
-* [Binance leveraged tokens](binance-leveraged-tokens.md)
-* [Binance Savings](binance-savings.md)
-* [Liquid swap](liquid-swap.md)
-
 ## ผลิตภัณฑ์ของ Binance ที่ไม่เกี่ยวกับการเทรด
 
 เรียงตามความเสี่ยงจากน้อยไปมาก
@@ -26,7 +22,8 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Flexible savings</td>
+      <td style="text-align:left"><a href="binance-savings.md">Flexible savings</a>
+      </td>
       <td style="text-align:left">&#xE1A;&#xE31;&#xE0D;&#xE0A;&#xE35;&#xE1D;&#xE32;&#xE01;&#xE2D;&#xE2D;&#xE21;&#xE17;&#xE23;&#xE31;&#xE1E;&#xE22;&#xE4C;</td>
       <td
       style="text-align:left">
@@ -37,7 +34,8 @@
         <td style="text-align:left">0.3-12% APY</td>
     </tr>
     <tr>
-      <td style="text-align:left">Locked savings</td>
+      <td style="text-align:left"><a href="binance-savings.md">Locked savings</a>
+      </td>
       <td style="text-align:left">&#xE1A;&#xE31;&#xE0D;&#xE0A;&#xE35;&#xE1D;&#xE32;&#xE01;&#xE1B;&#xE23;&#xE30;&#xE08;&#xE33;</td>
       <td
       style="text-align:left">
@@ -89,7 +87,8 @@
         <td style="text-align:left">&#xE1B;&#xE23;&#xE30;&#xE21;&#xE32;&#xE13; 100% &#xE42;&#xE14;&#xE22;&#xE40;&#xE09;&#xE25;&#xE35;&#xE48;&#xE22;*</td>
     </tr>
     <tr>
-      <td style="text-align:left">Liquid swap</td>
+      <td style="text-align:left"><a href="liquid-swap.md">Liquid swap</a>
+      </td>
       <td style="text-align:left">&#xE43;&#xE2B;&#xE49;&#xE1A;&#xE23;&#xE34;&#xE01;&#xE32;&#xE23;&#xE41;&#xE25;&#xE01;&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE40;&#xE2B;&#xE23;&#xE35;&#xE22;&#xE0D;&#xE40;&#xE1E;&#xE37;&#xE48;&#xE2D;&#xE40;&#xE01;&#xE47;&#xE1A;&#xE04;&#xE48;&#xE32;&#xE18;&#xE23;&#xE23;&#xE21;&#xE40;&#xE19;&#xE35;&#xE22;&#xE21;&#xE41;&#xE25;&#xE01;&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;</td>
       <td
       style="text-align:left">
@@ -139,7 +138,8 @@
       <td style="text-align:left">&#xE44;&#xE21;&#xE48;&#xE21;&#xE35;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Leveraged token</td>
+      <td style="text-align:left"><a href="binance-leveraged-tokens.md">Leveraged token</a>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Long/Short</li>
@@ -192,6 +192,6 @@
 ผลิตภัณฑ์ทุกตัวของ Binance มีความเสี่ยงร่วมกันคือ
 
 * ความเสี่ยงจากคู่ค้า \(counterparty risk\) หมายถึงต้องเชื่อใจ Binance ว่าจะดูแลรักษาทรัพย์สินเราอย่างดี
-* [ความเสี่ยงจาก stablecoin](https://coinrivet.com/guides/what-is-an-altcoin/stablecoins-what-are-the-risks-and-benefits/) \(หากฝากเป็น stablecoin\)
+* [ความเสี่ยงจาก stablecoin](https://raccoon.tanwa.info/glossary/various-risks#stablecoin-risk) \(หากฝากเป็น stablecoin\) [อ่านเพิ่มเติมได้ที่นี่](https://coinrivet.com/guides/what-is-an-altcoin/stablecoins-what-are-the-risks-and-benefits/)
 * ความเสี่ยงด้านตลาด \(Market risk\) จากราคาเหรียญที่ผันผวน
 
