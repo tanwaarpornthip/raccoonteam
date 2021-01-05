@@ -1,5 +1,5 @@
 ---
-description: อีกหนึ่งผลิตภัณฑ์ดี ๆ จาก Sabai.fiannce
+description: อีกหนึ่งผลิตภัณฑ์ดี ๆ จาก Sabai.finance
 ---
 
 # LearnSabai
