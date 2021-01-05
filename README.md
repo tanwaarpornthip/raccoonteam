@@ -1,4 +1,8 @@
-# Raccoon Team Thailand
+---
+description: อีกหนึ่งผลิตภัณฑ์ดี ๆ จาก Sabai.fiannce
+---
+
+# LearnSabai
 
 ## สารบัญแห่งความรู้
 
@@ -14,23 +18,18 @@
   * Co-founder [sabai.finance](https://sabai.finance/)
   * System trader
   * Binance angel
-* Lady Irmo
-  * Shaman of visions and dreams แห่ง Tinfoil
 
 สามารถติดต่อทีมงานได้ทางไหนบ้าง
 
 * Line: 
-  * [Raccoon Team TH](https://line.me/ti/g2/Lf5qbzQ3zPnUq0gdyJvvRA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) 
   * [Sabai.finance](https://line.me/ti/g2/Lf5qbzQ3zPnUq0gdyJvvRA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
   * [Binance Thai Community](https://line.me/ti/g2/Lf5qbzQ3zPnUq0gdyJvvRA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
   * [BLOCK research team, Prince of Songkla University, Phuket](https://line.me/ti/g2/XXpfZUpantI-8wmgpy7wVg)
 * Telegram: 
-  * [Raccoon Team](https://t.me/raccoon_team)
   * [Sabai.finance](https://t.me/THStakePool)
   * [Binance Thai](https://t.me/BinanceThai)
 * Facebook:
   * [BLOCK research team, Prince of Songkla University, Phuket](https://www.facebook.com/BLOCK.PSU.Phuket)
-  * [Raccoon Team](https://www.facebook.com/Raccoon-team-104729734757459)
   * [Binance Thai Community](https://www.facebook.com/BinanceThaiCommunity)
 
 ถ้าไม่แน่ใจว่าจะเริ่มที่ไหนดี ลองเริ่มที่ [บทความแนะนำการเทรดคริปโตสำหรับมือใหม่ฉบับสมบูรณ์](https://raccoon.tanwa.info/trading/)
