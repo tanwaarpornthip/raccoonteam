@@ -28,6 +28,7 @@
 ## รวบรวมคำถาม <a id="q-and-a"></a>
 
 * [Bitcoin](q-and-a/bitcoin.md)
+* [Keep3r \(KP3R\)](q-and-a/keep3r-kp3r.md)
 
 ## 👨‍🎓👩‍🎓รวบรวมแหล่งเรียนรู้ และ community <a id="learning-community"></a>
 
