@@ -38,7 +38,7 @@ description: ก้าวแรกสู่โลกคริปโต
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><a href="https://www.binance.com/en/register?ref=Y3MSYDFV">Binance</a> 
+      <td style="text-align:left"><a href="https://www.binance.com/en/register?ref=NE1YWXIM">Binance</a> 
       </td>
       <td style="text-align:left">&#xE15;&#xE48;&#xE32;&#xE07;&#xE1B;&#xE23;&#xE30;&#xE40;&#xE17;&#xE28;</td>
       <td
@@ -50,9 +50,8 @@ description: ก้าวแรกสู่โลกคริปโต
         </td>
         <td style="text-align:left">UI &#xE0B;&#xE31;&#xE1A;&#xE0B;&#xE49;&#xE2D;&#xE19;</td>
         <td style="text-align:left">
-          <p><a href="https://www.binance.com/en/register?ref=Y3MSYDFV">&#xE25;&#xE14;&#xE04;&#xE48;&#xE32;&#xE18;&#xE23;&#xE23;&#xE21;&#xE40;&#xE19;&#xE35;&#xE22;&#xE21; 10%</a> (
-            <a
-            href="https://www.binance.com/en/register?ref=Y3MSYDFV">&#xE04;&#xE25;&#xE34;&#xE4A;&#xE01;&#xE40;&#xE25;&#xE22;</a>)</p>
+          <p><a href="https://www.binance.com/en/register?ref=NE1YWXIM">&#xE25;&#xE14;&#xE04;&#xE48;&#xE32;&#xE18;&#xE23;&#xE23;&#xE21;&#xE40;&#xE19;&#xE35;&#xE22;&#xE21; 20% (&#xE04;&#xE25;&#xE34;&#xE4A;&#xE01;&#xE40;&#xE25;&#xE22;)</a>
+          </p>
           <p><a href="https://www.binance.com/en/futures/ref/blocktrading">&#xE15;&#xE25;&#xE32;&#xE14; Futures &#xE25;&#xE14; 10% (&#xE04;&#xE25;&#xE34;&#xE4A;&#xE01;&#xE40;&#xE25;&#xE22;)</a>
           </p>
         </td>
