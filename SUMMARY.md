@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LearnSabai](README.md)
+* [ส่วนลดสุดพิเศษสำหรับชุมชน Sabai](sabai_promo.md)
 
 ## เริ่มจากศูนย์ <a id="from-zero"></a>
 
