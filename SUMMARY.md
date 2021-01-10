@@ -25,10 +25,11 @@
 * [Market capitalization](glossary/market-capitalization.md)
 * [Various risks](glossary/various-risks.md)
 
-## รวบรวมคำถาม <a id="q-and-a"></a>
+## เหรียญต่าง ๆ <a id="q-and-a"></a>
 
 * [Bitcoin](q-and-a/bitcoin.md)
 * [Keep3r \(KP3R\)](q-and-a/keep3r-kp3r.md)
+* [Cardano \(ADA\)](q-and-a/cardano-ada.md)
 
 ## 👨‍🎓👩‍🎓รวบรวมแหล่งเรียนรู้ และ community <a id="learning-community"></a>
 
