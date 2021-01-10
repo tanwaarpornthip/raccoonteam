@@ -1,3 +1,9 @@
+---
+description: >-
+  บุคคล กลุ่มบุคคล หรือบริษัทด้านล่าง ไม่ใช่ส่วนหนึ่งของ Sabai Finance
+  ความเสี่ยงจากการใช้บริการต่าง ๆ ตกเป็นภาระของผู้ใช้เองทั้งหมด
+---
+
 # ส่วนลดสุดพิเศษสำหรับชุมชน Sabai
 
 ## สมัครบัญชีใหม่ Exchange ต่าง ๆ
@@ -68,7 +74,7 @@
   </tbody>
 </table>
 
-## Sabai affiliates
+## Sabai Promotion
 
 ### Binance P2P \(THB &lt;&gt; Crypto\)
 
